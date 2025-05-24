@@ -1,0 +1,6 @@
+1 Galatasaray Istanbul 1905 50 Dursun_Ozbek
+2 Fenerbahce Istanbul 1907 50 Ali_Koc
+3 Besiktas Istanbul 1903 50 Hasan_Arat
+4 TrabzonSpor Trabzon 1967 50 Ertugrul_Dogan
+5 Adana_Demirspor Adana 1940 50 Murat_Sancak
+
