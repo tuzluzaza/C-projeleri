@@ -1,0 +1,3 @@
+﻿  programlamayagiris2.odev.cpp
+D:\OneDrive\Masaüstü\YAZILIM DOSYALARI\Programlamaya giriş 2. Ödev\programlamayagiris2.odev.cpp(124,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Programlamaya giriş 2. Ödev.vcxproj -> D:\OneDrive\Masaüstü\YAZILIM DOSYALARI\Programlamaya giriş 2. Ödev\x64\Debug\Programlamaya giriş 2. Ödev.exe
